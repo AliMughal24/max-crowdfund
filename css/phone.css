@@ -1,0 +1,109 @@
+@media only screen and (max-width: 600px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .headerSection {
+        background: #123;
+        height: 680px;
+        width: 100%;
+    }
+
+    .font {
+        font-size: medium;
+    }
+
+    .input-sec {
+        padding-top: 5px;
+    }
+
+    .position-circle {
+        position: relative;
+        z-index: 9;
+        top: 45px;
+        height: 100px;
+        left: -10px;
+    }
+
+    .position-mobile {
+        margin-right: 0px;
+    }
+
+    .mobile {
+        display: none;
+    }
+
+    .my-container {
+        padding-top: 240%;
+
+    }
+
+    .media-text {
+        font-size: xx-large;
+        text-align: center;
+    }
+
+    .media-pad {
+        padding-top: 40px;
+
+    }
+
+    .text {
+        font-size: 24px;
+
+    }
+
+    .text-color {
+
+        text-align: center;
+        font-size: 20px;
+        margin-top: -20px;
+
+    }
+
+    .text-imp {
+        text-align: center;
+    }
+
+    .btn-text {
+        width: 100%;
+        font-size: 12px !important;
+    }
+
+    .background-color {
+        height: 700px;
+
+    }
+
+    .home {
+        height: 190px;
+    }
+
+    .container1 {
+        padding-top: 10%;
+    }
+
+    .media-btn {
+        padding-top: 55%;
+    }
+
+    .text {
+        font-size: 33px;
+
+    }
+
+    .footer-sec {
+        text-align: center;
+    }
+
+    .line {
+        border-right: none;
+        text-align: center;
+
+    }
+
+
+
+
+
+}
