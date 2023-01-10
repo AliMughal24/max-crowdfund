@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     .container {
         flex-direction: column;
     }
@@ -34,7 +34,7 @@
     }
 
     .my-container {
-        padding-top: 240%;
+        padding-top: 210% !important;
 
     }
 
@@ -66,7 +66,7 @@
     }
 
     .btn-text {
-        width: 100%;
+        width: 90% !important;
         font-size: 12px !important;
     }
 
@@ -79,7 +79,7 @@
         height: 190px;
     }
 
-    .container1 {
+    .container {
         padding-top: 10%;
     }
 
@@ -100,6 +100,20 @@
         border-right: none;
         text-align: center;
 
+    }
+
+    .text1 {
+        font-size: 8px;
+
+    }
+
+    .hero {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .header {
+        height: 20px;
     }
 
 

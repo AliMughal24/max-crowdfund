@@ -55,7 +55,8 @@
 
 .position-circle {
     position: relative;
-    left: 100px;
+    left: 125px;
+    z-index: 9;
 
 }
 
@@ -102,7 +103,7 @@
 .btn-text {
     background-color: #7cc141 !important;
     border-radius: 13px !important;
-    width: 450px;
+    width: 380px !important;
 
 }
 

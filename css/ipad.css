@@ -1,0 +1,55 @@
+@media only screen and (max-width:992px) {
+    .primary-text {
+        font-size: 15px;
+
+    }
+
+    .headerSection {
+        height: 665px;
+
+    }
+
+    .my-container {
+        padding-top: 17%;
+
+    }
+
+    .position-circle {
+
+        position: relative;
+        top: 25px;
+        height: 140px;
+        left: 80px;
+        z-index: 9;
+    }
+
+
+    .mobile {
+        position: relative;
+        left: 5px;
+        top: 6px;
+    }
+
+    .font {
+        font-size: 14px;
+
+    }
+
+    .text {
+        font-size: 25px;
+
+    }
+
+    .last-sec {
+        margin-right: 25%;
+
+
+    }
+
+    .media-text {
+        font-size: 40px;
+
+    }
+
+
+}
